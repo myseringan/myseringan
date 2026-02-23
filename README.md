@@ -37,5 +37,5 @@ I build firmware for ESP32/ESP-IDF devices, integrate sensors and displays, and 
 ### Get in touch
 
 - Telegram: [@my_seringan](https://t.me/my_seringan)
-- Upwork: [Available for hire](https://www.upwork.com/)
+- Upwork: [Available for hire]([https://www.upwork.com/](https://www.upwork.com/freelancers/~013b85c21637fcacdc?mp_source=share))
 - Email: open to work — reach out via Telegram
